@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá eu sou Bruno, Estudo no Francisco Cristiano e estou na 2° Série do Ensino Médio 👋
 
 <!--
 **BrunaoDoPA/BrunaoDoPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
